@@ -1,11 +1,11 @@
 {
-  "title": "Contented CMS",
+  "title": "Robin Massart",
   "url": "https://cms.contentedweb.com/",
   "language": "en",
-  "description": "An eleventy based basic blogging site with Forestry and GitHub Pages baked in",
+  "description": "Circular walks around Luxembourg and more",
   "startYear": 2021,
   "relme": "https://github.com/contentedweb",
-  "theme": "olden",
+  "theme": "sky",
   "feed": {
     "subtitle": "An eleventy based basic blogging site with Forestry and GitHub Pages baked in",
     "filename": "index.xml",
@@ -13,9 +13,9 @@
     "id": "https://cms.contentedweb.com/"
   },
   "author": {
-    "name": "Contented CMS",
-    "email": "admin@contentedweb.com",
-    "url": "https://cms.contentedweb.com/about/"
+    "name": "Robin Massart",
+    "email": "robinmassart@outlook.com",
+    "url": "https://www.robinmassart.com/about/"
   },
   "css": {
     "headerBgColor": "#F2E3A9",
