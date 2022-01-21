@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="/feed/pretty-feed-v3.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Contented CMS</title>
+	<title>Robin Massart</title>
 	<subtitle>An eleventy based basic blogging site with Forestry and GitHub Pages baked in</subtitle>
 	
 	<link href="https://cms.contentedweb.com/feed/index.xml" rel="self"/>
@@ -9,8 +9,8 @@
 	<updated>2022-02-01T00:00:00Z</updated>
 	<id>https://cms.contentedweb.com/</id>
 	<author>
-		<name>Contented CMS</name>
-		<email>admin@contentedweb.com</email>
+		<name>Robin Massart</name>
+		<email>robinmassart@outlook.com</email>
 	</author>
 	
 	
@@ -58,17 +58,6 @@ An old Tibetian saying&lt;/p&gt;
 &lt;p&gt;Not all those who wander are lost.&lt;br /&gt;
 J.R.R.Tolkien, Fellowship of the Ring&lt;/p&gt;
 &lt;/blockquote&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Post One</title>
-		<link href="https://cms.contentedweb.com/posts/2020/post-one/"/>
-		<updated>2020-12-25T00:00:00Z</updated>
-		<id>https://cms.contentedweb.com/posts/2020/post-one/</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://cms.contentedweb.com/assets/images/wheel.png&quot; alt=&quot;Frosty trees seen through a large hamster wheel.&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Christmas Day, 2020&lt;/p&gt;
----
 </content>
 	</entry>
 </feed>
